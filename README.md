@@ -2,7 +2,7 @@
 ## Description
 It's a mimic of a hyper-casual game called Pokey Ball published by Voodoo.
 
->Original game's store link;/
+>Original game's store link;\
 ><https://apps.apple.com/us/app/pokey-ball/id1480638758>
 
 You can find all of the raw scripts in folders section.
